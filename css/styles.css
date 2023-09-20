@@ -16,24 +16,8 @@
   padding-bottom: 120px;
 }
 
-body {
-  color: #434455;
-  background-color: var(--main-white);
-  font-family: 'Roboto', sans-serif;
-}
 
-h1, h2, h3, h4, h5, h6, p {
-  margin-top: 0;
-  margin-bottom: 0;
-}
 
-ul,
-ol {
-  list-style-type: none;
-  margin-top: 0;
-  margin-bottom: 0;
-  padding-left: 0;
-}
 
   a {
     text-decoration: none;
@@ -103,14 +87,7 @@ ol {
 }
 
 
-  button{
-    cursor: pointer;
-  }
 
-  .list {
-    list-style-type: none;
-    
-  }
 
   .header-menu{
     border-bottom: 1px solid var(--cornflower, #E7E9FC);
@@ -119,11 +96,6 @@ ol {
   }
   .div-menu{
     display: flex;
-  }
-
-  img {
-    display: block;
-    width: 100%; 
   }
 
 
