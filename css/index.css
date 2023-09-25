@@ -9,4 +9,10 @@
 
 /*Layout*/
 
-@import url(./loyaout/hader.css);
+@import './layout/header.css';
+/* @import './layout/hero.css';
+@import './layout/benefits.css';
+@import '../css/layout/modal-window.css';
+@import '../css/layout/team.css';
+@import './layout/portfolio.css';
+@import './layout/footer.css'; */
